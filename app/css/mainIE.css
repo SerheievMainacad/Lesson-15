@@ -1,0 +1,16 @@
+#wrapper{
+	width: 100%;
+	height: 768px;
+	background-color: yellow;
+	box-sizing: border-box;
+	padding-top: 284px;
+}
+#wrapper .block{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-right: 13%;
+}
+#wrapper .block:first-child{
+	margin-left: 13%;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "l14",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "SerheievMainacad <serheiev@maincad.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^5.0.9",
+    "jquery": "^3.3.1"
+  }
+}
